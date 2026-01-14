@@ -70,7 +70,6 @@ Exported key insights and visuals from Power BI.
 Used Gamma to generate a structured slide deck summarizing the findings, methodologies, and business recommendations.
 
 📊 Dashboard Results
-(Insert Screenshots of your Power BI Dashboard here)
 
 Insight Example: * "The data reveals that while 'Item A' has the highest sales volume, 'Item B' holds the highest customer satisfaction rating of 4.8/5."*
 
@@ -78,16 +77,12 @@ Insight Example: * "The data reveals that while 'Item A' has the highest sales v
 Prerequisites:
 
 Python 3.x installed.
-
 PostgreSQL or MySQL Server running.
+Power BI Desktop installed.
 
 Create a database named customer_behavior in your SQL tool.
 
 Update the connection string in main.py with your credentials (username, password, port).
-
-Run the Script:
-
-Bash
 
 python main.py
 View Dashboard:
